@@ -10,6 +10,8 @@
 ![image](https://github.com/Kamil-Ahmed67/CodeLab_WebTech_Project/assets/130387705/e8da3f42-f198-4459-b3ce-d0811fdb0bb9)
 #forget pasword page
 ![image](https://github.com/Kamil-Ahmed67/CodeLab_WebTech_Project/assets/130387705/3fef2af3-67ee-4a2b-8545-fec8f7bb1034)
+![image](https://github.com/Kamil-Ahmed67/CodeLab_WebTech_Project/assets/130387705/aa6f6520-36f9-43d7-a110-456076bc1fb6)
+
 #sign up page
 ![image](https://github.com/Kamil-Ahmed67/CodeLab_WebTech_Project/assets/130387705/16ea62c7-f330-444e-8384-308d5a759d5c)
 #student homepage
